@@ -5,7 +5,7 @@ This repository is an official Pytorch implementation of our paper Enhancing Dec
 
 Introduction
 ---
-<img src="https://github.com/zdjiang-cs/SSD/blob/main/training_module/image/SSD.png" width="800"><br>
+<img src="https://github.com/zdjiang-cs/SSD/blob/main/training_module/image/SSD.png" width="1000"><br>
 How to exploit the unlabeled data residing on decentralized workers is a new challenge for decentralized machine learning (DML) and also is an understudied problem. This paper proposes a novel framework, called SSD, which addresses the problem of semi-supervised DML by adaptive neighbor selection.
 
 As shown in Figure, left plot is the research scenario of semi-supervised DML. Each worker in the P2P network has both labeled and unlabeled data. Right plot is the illustration of the training process on worker i. Each round t consists of four phases: 
